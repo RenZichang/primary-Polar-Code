@@ -4,7 +4,7 @@
 
 根据Arikan的“信道极化现象”理论，我们认为靠近信道的一侧为极化码的第1层极化，靠近编码器输入侧的为最后一层极化，如图所示：
 
-![极化码编码器结构](https://i.328888.xyz/2023/04/08/i3OFDA.png)
+![极化码编码器结构](https://github.com/RenZichang/primary-Polar-Code/blob/master/appendix/%E9%95%BF%E5%BA%A6%E4%B8%BA8%E7%9A%84%E6%9E%81%E5%8C%96%E7%A0%81%E7%BC%96%E7%A0%81%E5%99%A8.png?raw=true)
 
 ## 2. 关于SC译码思路的简单阐述
 
